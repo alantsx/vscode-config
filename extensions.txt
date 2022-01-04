@@ -1,0 +1,5 @@
+- ESLint
+- Material Icon Theme
+- Omni Theme
+- styled-components
+- Live Server
