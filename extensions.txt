@@ -3,3 +3,6 @@
 - Omni Theme
 - styled-components
 - Live Server
+
+
+JetBrains Mono font: https://www.jetbrains.com/pt-br/lp/mono/
